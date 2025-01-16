@@ -14,17 +14,17 @@ Centro Universitário Estácio da Amazônia, Boa Vista
 Janeiro 2024 — Junho 2026
 
 ## Habilidades
- Linguagens de programação: JavaScript, Dart, Java.
- Bases de dados: MySQL e PostgreSQL.
- Ferramentas de versionamento: Git/GitHub.
- Desenvolvimento com Java: Experiência com Spring Boot para criação de APIs REST e 
+ - Linguagens de programação: JavaScript, Dart, Java.
+ - Bases de dados: MySQL e PostgreSQL.
+ - Ferramentas de versionamento: Git/GitHub.
+ - Desenvolvimento com Java: Experiência com Spring Boot para criação de APIs REST e 
 aplicações web.
- Desenvolvimento de serviços: Implementação com boas práticas, autenticação e 
+ - Desenvolvimento de serviços: Implementação com boas práticas, autenticação e 
 documentação de APIs RESTful.
- Ferramentas de build: Uso de ferramentas como Maven e Gradle para build e 
+ - Ferramentas de build: Uso de ferramentas como Maven e Gradle para build e 
 gerenciamento de dependências.
- Frameworks e tecnologias adicionais: Vue.js, PrimeVue, Flutter, MobX, Flutter Modular.
- Soft Skills:
+ - Frameworks e tecnologias adicionais: Vue.js, PrimeVue, Flutter, MobX, Flutter Modular.
+ - Soft Skills:
  • Trabalho em equipe.
  • Proatividade e iniciativa.
  
