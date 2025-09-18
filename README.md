@@ -1,12 +1,10 @@
 # Josué Ramos
 
 ## Perfil
-Desenvolvedor dedicado ao aprimoramento constante, com habilidades em Java, 
-frameworks como Spring Boot, Vue.js e Flutter. Atualmente, como estagiário no TCERR, 
-atuo no desenvolvimento de soluções web, empregando tecnologias modernas para 
-criar aplicações eficientes e de alto desempenho. Estou empenhado em aplicar minhas 
-habilidades em desenvolvimento web e mobile, contribuindo para a criação de soluções 
-inovadoras e de qualidade em novos desafios profissionais.
+ Desenvolvedor em formação com foco em backend, atuando com C# .NET e Java (Spring Boot), e
+ experiência complementar em Flutter e Vue.js. Capaz de atuar em todo o ciclo de
+ desenvolvimento, desde a concepção da interface até a integração com APIs. Comprometido com
+ a aplicação de boas práticas, metodologias ágeis e evolução constante
 
 ## Formação
 *Análise e Desenvolvimento de Sistemas*  
@@ -14,19 +12,22 @@ Centro Universitário Estácio da Amazônia, Boa Vista
 Janeiro 2024 — Junho 2026
 
 ## Habilidades
- - Linguagens de programação: JavaScript, Dart, Java.
- - Bases de dados: MySQL e PostgreSQL.
- - Ferramentas de versionamento: Git/GitHub.
- - Desenvolvimento com Java: Experiência com Spring Boot para criação de APIs REST e 
-aplicações web.
- - Desenvolvimento de serviços: Implementação com boas práticas, autenticação e 
-documentação de APIs RESTful.
- - Ferramentas de build: Uso de ferramentas como Maven e Gradle para build e 
-gerenciamento de dependências.
- - Frameworks e tecnologias adicionais: Vue.js, PrimeVue, Flutter, MobX, Flutter Modular.
- - Soft Skills:
- • Trabalho em equipe.
- • Proatividade e iniciativa.
+## Desenvolvimento Mobile
+- Flutter & Dart: Clean Architecture e MVVM.
+- Gerenciamento de estado com MobX.
+- Injeção de dependências com Flutter Modular.
+- Consumo de APIs REST com Dio.
+- Desenvolvimento Web & Frontend
+- Vue.js & PrimeVue.
+## Desenvolvimento Backend
+- C# .NET, Java (Spring Boot) e Python (Django – básico).
+## Bancos de Dados & Persistência
+- MySQL, PostgreSQL e Oracle.
+- Integração de APIs com bancos de dados relacionais.
+## Ferramentas & Metodologias
+- Git, JIRA, Scrum, Kanban.
+- HTML5, CSS, JavaScript.
+- Corel Draw, Photoshop.
  
 ## Experiência de Mentoria
 *Mentoria em Análise e Desenvolvimento de Sistemas*  
@@ -46,13 +47,13 @@ Duração: 6 meses
 - *Criação de Apps Android/iOS/Web com Flutter*, Udemy
 - *SQL para Análise de Dados: Do Básico ao Avançado*, Udemy
 
-## Experiências
-*Tcerr*  
-Estagiário  
-Setembro 2024 — Atual  
-Localização: Boa Vista (RR)
-Acompanhamento de projetos, Criação, alteração e acompanhamento de projetos com 
-GIT, JIRA,  Desenvolvimento de atividades em equipe com processos ágeis com SCRUM, 
-KANBAN, Progração FrontEND  vueJS, javaScript, HTML5, CSS, BEM, Criação, edição de 
-imagens com Corel Draw e Photoshop, Criação,  alteração de layouts para sistemas web.
+## Experiência Profissional
+ ## Desenvolvedor – FAPERR (Fundação de Amparo à Pesquisa do Estado de Roraima)
+ Set/2025 – Atual- Desenvolvimento e manutenção de sistemas internos.- Implementação de novas funcionalidades e integrações com APIs RESTful.- Apoio em análise de requisitos e melhoria contínua de processos.
+ 
+## Desenvolvedor e Analista – SEFAZ/RR (Secretaria da Fazenda do Estado de Roraima)
+ Mar/2025 – Set/2025- Desenvolvimento e manutenção de sistemas corporativos.- Implementação de funcionalidades e correções seguindo boas práticas.
+ 
+## Estagiário – Tribunal de Contas do Estado de Roraima (TCERR)
+ Set/2024 – Mar/2025- Acompanhamento e execução de projetos utilizando Git e JIRA.- Atuação em equipe com Scrum e Kanban.- Programação Front-end com Vue.js, JavaScript, HTML5, CSS e BEM.- Criação e alteração de layouts para sistemas Web.- Criação e edição de imagens com Corel Draw e Photoshop.
 
