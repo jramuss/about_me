@@ -52,13 +52,13 @@ Duração: 6 meses
 ## Experiência Profissional
 
 ### Desenvolvedor – CAER (Companhia de Água e Esgoto de Boa Vista)
-*Atual* — Desenvolvimento e manutenção de sistemas internos
+*Mar/2026 - Atual* — Desenvolvimento e manutenção de sistemas internos
 - Desenvolvimento e manutenção de aplicações corporativas.
 - Implementação de novas funcionalidades e integrações com APIs RESTful.
 - Apoio em análise de requisitos e melhoria contínua de processos.
 
 ### Desenvolvedor – FAPERR (Fundação de Amparo à Pesquisa do Estado de Roraima)
-*Set/2025 – Atual* — Desenvolvimento e manutenção de sistemas internos
+*Set/2025 – Mar/2026 — Desenvolvimento e manutenção de sistemas internos
 - Implementação de novas funcionalidades e integrações com APIs RESTful.
 - Apoio em análise de requisitos e melhoria contínua.
 
